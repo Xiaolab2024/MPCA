@@ -1,0 +1,12 @@
+name: MetProtArch
+title: MetProtArch
+username: chouchani-lab
+account: chouchani-lab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13458345
+bundleId: 9691819
+url: https://chouchani-lab.shinyapps.io/MetProtArch/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

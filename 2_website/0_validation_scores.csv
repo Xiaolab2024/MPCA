@@ -1,0 +1,170 @@
+"","Variable","newfound.bat","established.bat","validation_score.bat","newfound.liver","established.liver","validation_score.liver"
+"1","(+/-)-3-Methyl-2-oxovaleric acid/4-METHYL-2-OXO-PENTANOIC ACID/4-Methyl-2-oxovaleric acid",8,0,1,NA,NA,NA
+"2","1.Hydroxy.2.naphthoic.acid",9,0,1,NA,NA,NA
+"3","10.Hydroxydecanoic.acid",6,0,1,NA,NA,NA
+"4","2'-Deoxycytidine",2,0,1,4,0,1
+"5","2'-Deoxyuridine",6,0,1,12,1,4
+"6","2,5-Dimethylpyrazine",18,0,1,NA,NA,NA
+"7","2-Methylalanine",3,0,1,14,0,1
+"8","3-Hydroxy-3-methylglutaric acid",11,0,1,NA,NA,NA
+"9","3-Mercaptopyruvate",17,0,1,NA,NA,NA
+"10","3-Methylhistamine",8,0,1,NA,NA,NA
+"11","3-Ureidopropionic acid",16,0,1,0,1,4
+"12","8-hydroxy-2'-deoxyguanosine",18,0,1,NA,NA,NA
+"13","Acetyl-L-carnitine",32,0,1,23,1,4
+"14","Aconitate",15,0,1,NA,NA,NA
+"15","Acrylic.acid",10,0,1,34,0,1
+"16","Adenine",14,0,1,NA,NA,NA
+"17","Adenosine",14,1,3,1,0,1
+"18","Adenosine 3',5'-diphosphate",9,0,1,NA,NA,NA
+"19","Adenosine 5'-monophosphate",11,0,1,2,2,7
+"20","Allantoin",12,0,1,12,0,1
+"21","Benzoic acid",27,0,1,68,0,1
+"22","Biotin",44,0,1,45,0,1
+"23","Butyric acid",16,0,1,NA,NA,NA
+"24","Butyryl-carnitine",61,0,1,19,0,1
+"25","CDP-ethanolamine",27,1,3,22,1,4
+"26","Choline hydroxide solution",4,0,1,NA,NA,NA
+"27","Citrate/isocitrate",8,0,1,10,0,1
+"28","Creatine",29,0,1,13,0,1
+"29","Creatinine",10,0,1,NA,NA,NA
+"30","Cytidine",7,0,1,10,0,1
+"31","Cytidine 5'-monophosphate",6,0,1,1,0,1
+"32","D-(+)-Galacturonic acid",10,0,1,11,0,1
+"33","D-Glucosamine 6-phosphate",9,0,1,NA,NA,NA
+"34","D-Glucose",15,1,3,2,0,1
+"35","D-Glucose/Frucotose 6-phosphate",34,1,3,NA,NA,NA
+"36","D-Pantolactone",1,0,1,NA,NA,NA
+"37","Decanoyl-L-carnitine (C10)",15,0,1,12,0,1
+"38","Dehydro-L-(+)-ascorbic acid dimer",9,0,1,NA,NA,NA
+"39","Fumarate",31,0,1,60,0,1
+"40","GABA",13,0,1,18,0,1
+"41","Glycine",7,0,1,NA,NA,NA
+"42","Glyoxylic acid",13,0,1,NA,NA,NA
+"43","Guanosine 5'-monophosphate disodium",5,0,1,NA,NA,NA
+"44","Heptadecanoic acid",1,0,1,NA,NA,NA
+"45","Hexanoyl-L-carnitine",10,0,1,NA,NA,NA
+"46","Homovanillic acid/DL-p-Hydroxyphenyllactic acid",13,0,1,5,0,1
+"47","Hydroxybutyric acid",7,0,1,NA,NA,NA
+"48","Hydroxypalmitoyl-carnitine",6,0,1,NA,NA,NA
+"49","Hypotaurine",80,2,5,24,3,10
+"50","Inosine 5'-monophosphate",5,0,1,9,0,1
+"51","Isobutyraldehyde.oxime",11,0,1,NA,NA,NA
+"52","Isovaleryl-carnitine",14,0,1,11,0,1
+"53","L-(+)-Lactate",6,0,1,NA,NA,NA
+"54","L-Alanine",26,1,3,NA,NA,NA
+"55","L-Arginine",19,0,1,NA,NA,NA
+"56","L-Asparagine",19,1,3,38,0,1
+"57","L-Aspartic acid",8,0,1,22,0,1
+"58","L-Carnitine",15,1,3,33,1,4
+"59","L-Citrulline",20,0,1,NA,NA,NA
+"60","L-Cysteinesulfinic acid",2,0,1,NA,NA,NA
+"61","L-Dihydroorotic acid",14,0,1,7,0,1
+"62","L-Glutamic acid",23,5,10,8,0,1
+"63","L-Glutamine",17,0,1,NA,NA,NA
+"64","L-Glutathione reduced",7,0,1,NA,NA,NA
+"65","L-Histidine",18,0,1,NA,NA,NA
+"66","L-Lysine",20,1,3,58,1,4
+"67","L-Methionine",30,1,3,5,1,4
+"68","L-Phenylalanine",6,0,1,NA,NA,NA
+"69","L-Pipecolic acid",5,0,1,21,1,4
+"70","L-Proline",9,0,1,1,0,1
+"71","L-Serine",30,0,1,27,1,4
+"72","L-Threonine",17,0,1,25,1,4
+"73","L-Tryptophan",8,0,1,NA,NA,NA
+"74","L-Tyrosine",9,0,1,NA,NA,NA
+"75","L-Valine",8,0,1,34,0,1
+"76","Lauroyl-L-carnitine",5,0,1,13,0,1
+"77","Lipoic acid",19,0,1,3,0,1
+"78","Lumichrome",6,0,1,NA,NA,NA
+"79","MTA",7,0,1,NA,NA,NA
+"80","Maleate",28,0,1,62,0,1
+"81","Methylglyoxal",13,0,1,6,0,1
+"82","Myristic acid",6,0,1,5,0,1
+"83","Myristoyl-carnitine",8,0,1,1,0,1
+"84","N-Acetyl-D-glucosamine/galactosamine",22,0,1,NA,NA,NA
+"85","N-Acetyl-DL-glutamic acid",27,0,1,16,0,1
+"86","N-Acetyl-DL-methionine",49,1,3,7,1,4
+"87","N-Acetyl-DL-serine",5,0,1,22,0,1
+"88","N-Acetyl-L-aspartic acid",22,0,1,10,0,1
+"89","N-Acetyl-L-phenylalanine",31,0,1,3,0,1
+"90","N-Acetylneuraminic acid",14,0,1,36,0,1
+"91","N-Methyl-L-glutamic acid",17,0,1,4,0,1
+"92","N-alpha-Acetyl-L-asparagine",14,0,1,16,0,1
+"93","NAD",25,4,8,5,0,1
+"94","Norepinephrine",8,1,3,NA,NA,NA
+"95","O-Phosphorylethanolamine",8,0,1,23,0,1
+"96","Ocatadecanoyl-carnitine",13,0,1,7,0,1
+"97","Octanoyl-L-carnitine (C8)",7,0,1,3,0,1
+"98","Ornithine",5,0,1,9,1,4
+"99","Oxidised glutathione",19,0,1,NA,NA,NA
+"100","Palmitic acid",18,2,5,NA,NA,NA
+"101","Palmitoylcarnitine",2,0,1,12,0,1
+"102","Pantothenic acid",10,1,3,21,0,1
+"103","Phosphocreatine",14,0,1,NA,NA,NA
+"104","Propionyl-carnitine",13,0,1,11,0,1
+"105","Quinolinic acid",3,0,1,13,0,1
+"106","Rhamnose/Fucose/2-deoxy-D-glucose",10,0,1,10,0,1
+"107","S.Carboxymethyl.L.cysteine",12,0,1,NA,NA,NA
+"108","Sodium gluconate",16,0,1,NA,NA,NA
+"109","Stearic acid",1,0,1,NA,NA,NA
+"110","Succinate",26,0,1,4,0,1
+"111","Succinate semialdehyde",8,0,1,5,0,1
+"112","Sucrose/Lactose/Palatinose/Trehalose",5,0,1,NA,NA,NA
+"113","Taurine",15,0,1,NA,NA,NA
+"114","Theophylline",34,0,1,8,0,1
+"115","Thymidine",3,0,1,2,1,4
+"116","Thymine",3,0,1,NA,NA,NA
+"117","Uracil",13,1,3,8,1,4
+"118","Uric acid",3,0,1,3,0,1
+"119","Uridine",6,0,1,8,0,1
+"120","Uridine 5'-diphospho-N-acetylgalactosamine",13,0,1,18,0,1
+"121","Uridine 5'-monophosphate",20,0,1,NA,NA,NA
+"122","Uridine-5'-diphosphoglucose",3,0,1,NA,NA,NA
+"123","Xylitol/Arabitol/Adonitol",18,0,1,NA,NA,NA
+"124","alpha-Ketoglutarate",4,1,3,0,1,4
+"125","citramalate",1,0,1,6,0,1
+"126","eicosanoic acid,",1,0,1,NA,NA,NA
+"127","glycerol-3-phosphate",28,0,1,9,0,1
+"128","malate",23,0,1,51,0,1
+"129","meso-Erythritol",6,0,1,NA,NA,NA
+"130","propionate",20,1,3,NA,NA,NA
+"131","trans-4-Hydroxy-L-proline",21,0,1,15,1,4
+"132","xylose/ribose/arabinose",31,0,1,3,0,1
+"133","1-Methyl-L-histidine",NA,NA,NA,37,0,1
+"134","1.7.Dimethylxanthine",NA,NA,NA,2,0,1
+"135","2-Hydroxybutyric acid",NA,NA,NA,1,0,1
+"136","3.Carboxypropyl.trimethylammonium.chloride",NA,NA,NA,5,0,1
+"137","4-Acetamidobutyric acid",NA,NA,NA,5,0,1
+"138","5-Aminovaleric acid",NA,NA,NA,31,0,1
+"139","Cytidine 5'-diphosphocholine",NA,NA,NA,7,0,1
+"140","D-Fructose 1,6-bisphosphate",NA,NA,NA,25,0,1
+"141","D-Glucuronic acid",NA,NA,NA,5,0,1
+"142","D-Mannosamine hydrochloride",NA,NA,NA,7,0,1
+"143","Dihydrobiopterin",NA,NA,NA,2,0,1
+"144","Ergothioneine",NA,NA,NA,3,0,1
+"145","Glutaryl-L-carnitine",NA,NA,NA,38,0,1
+"146","Guanidineacetic acid",NA,NA,NA,19,1,4
+"147","Guanidinosuccinic acid",NA,NA,NA,5,0,1
+"148","Hypoxanthine",NA,NA,NA,5,1,4
+"149","Inosine",NA,NA,NA,4,0,1
+"150","Itaconate/Citraconate",NA,NA,NA,2,0,1
+"151","L-Cystathionine",NA,NA,NA,1,0,1
+"152","L-Homoserine",NA,NA,NA,28,0,1
+"153","L-Norvaline",NA,NA,NA,35,0,1
+"154","L.leucine.isoleucine",NA,NA,NA,32,0,1
+"155","N-Acetyl-L-leucine",NA,NA,NA,11,0,1
+"156","N-Acetyl-L-proline",NA,NA,NA,9,0,1
+"157","N-Methyl-D-aspartic acid",NA,NA,NA,8,0,1
+"158","N-alpha-Acetyl-L-lysine",NA,NA,NA,54,0,1
+"159","O.Succinyl.L.homoserine",NA,NA,NA,29,0,1
+"160","Ophthalmate",NA,NA,NA,38,0,1
+"161","Palmitoleic acid",NA,NA,NA,14,0,1
+"162","Ribose 5-phosphate",NA,NA,NA,8,0,1
+"163","S-(5'-Adenosyl)-L-homocysteine",NA,NA,NA,10,1,4
+"164","Seleno.DL.methionine",NA,NA,NA,18,0,1
+"165","Serotonin",NA,NA,NA,11,0,1
+"166","Thiamine pyrophosphate",NA,NA,NA,20,2,7
+"167","Xanthine",NA,NA,NA,4,1,4
+"168","delta.Valerolactone",NA,NA,NA,5,0,1
+"169","fructose/galactose/glucose",NA,NA,NA,2,0,1
